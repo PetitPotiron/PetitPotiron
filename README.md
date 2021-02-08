@@ -13,4 +13,4 @@
 
 [Mon bot : Rovobot](https://discord.com/oauth2/authorize?client_id=786632468655636580&scope=bot+applications.commands&permissions=2147483647)
 
-[Le serveur de support de Rovobot](https://discord.com/invite/5vdbaNZnWx) [! [Le serveur de support de Rovobot](https://discord.com/api/guilds/800032961525317693/widget.png)](https://discord.com/invite/5vdbaNZnWx)
+[Le serveur de support de Rovobot](https://discord.com/invite/5vdbaNZnWx) [![Le serveur de support de Rovobot](https://discord.com/api/guilds/800032961525317693/widget.png)](https://discord.com/invite/5vdbaNZnWx)
