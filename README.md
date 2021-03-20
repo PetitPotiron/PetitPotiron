@@ -11,7 +11,7 @@
 ## Contactez moi sur discord
 [Mon compte](https://discord.com/users/715826047949471785)
 
-[Me parler sur un serveur dédié](https://discord.gg/ZB8ghyEWAb)
+[Me parler sur un serveur dédié](https://discord.com/invite/5vdbaNZnWx)
 
 [Mon bot : Rovobot](https://discord.com/oauth2/authorize?client_id=786632468655636580&scope=bot+applications.commands&permissions=2147483647)
 
