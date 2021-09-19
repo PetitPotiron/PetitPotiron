@@ -8,7 +8,7 @@
 ![Stats](https://github-readme-streak-stats.herokuapp.com/?user=petitpotiron&theme=dark)
 
 ## Mes langages préférés
-![Languages stats](https://github-readme-stats.vercel.app/api/top-langs/?username=PetitPotiron&theme=midnight-purple)](https://github.com/PetitPotiron/PetitPotiron/blob/main/README.md#mes-langages-préférés)
+![Languages stats](https://github-readme-stats.vercel.app/api/top-langs/?username=PetitPotiron&theme=midnight-purple)
 
 ## Contactez moi sur discord
 [Mon compte](https://discord.com/users/715826047949471785)
