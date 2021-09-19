@@ -1,4 +1,4 @@
-# Fire
+Co'fi
 [🇫🇷 FR](https://github.com/PetitPotiron/PetitPotiron/blob/main/README.md)  
 
 [🇬🇧 EN](https://github.com/PetitPotiron/PetitPotiron/blob/main/README_EN.md)
