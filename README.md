@@ -5,6 +5,8 @@
 ## Statistiques
 [![Stats](https://github-readme-stats.vercel.app/api?username=PetitPotiron&show_icons=true&theme=midnight-purple)](https://github.com/PetitPotiron/PetitPotiron/blob/main/README.md#statistiques)
 
+[![Stats](https://github-readme-streak-stats.herokuapp.com/?user=petitpotiron&theme=dark&)
+
 ## Mes langages préférés
 [![Languages stats](https://github-readme-stats.vercel.app/api/top-langs/?username=PetitPotiron&theme=midnight-purple)](https://github.com/PetitPotiron/PetitPotiron/blob/main/README.md#mes-langages-préférés)
 
