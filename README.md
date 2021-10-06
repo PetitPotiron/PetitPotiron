@@ -1,5 +1,5 @@
 # Moonrise
-[Full stats](https://github.com/PetitPotiron/PetitPotiron/stats.md)
+[Full stats](https://github.com/PetitPotiron/PetitPotiron/blob/main/stats.md)
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=PetitPotiron&show_icons=true&theme=midnight-purple)
 
