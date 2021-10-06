@@ -19,4 +19,4 @@
 
 [Le serveur de support de Dimension](https://discord.com/invite/5vdbaNZnWx) [![Le serveur de support de Rovobot](https://discord.com/api/guilds/800032961525317693/widget.png)](https://discord.com/invite/5vdbaNZnWx)
 
- <script src="https://tryhackme.com/badge/430014"></script>
+ <a href="https://tryhackme.com/p/PetitPotiron"><img src="https://tryhackme-badges.s3.amazonaws.com/PetitPotiron.png" alt="TryHackMe"></a>
