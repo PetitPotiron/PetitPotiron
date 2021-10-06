@@ -14,13 +14,13 @@
 <a href="https://gimp.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gimp/gimp-original.svg" width="50px" height="50px" alt="Gimp - Intermediate"></a>
 <a href="https://git-scm.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50px" height="50px" alt=""></a>
 <a href="https://github.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="50px" height="50px" alt=""></a>       
-<a href="https://djangoproject.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" width="50px" height="50px" alt=""></a>        
+<a href="https://djangoproject.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" width="50px" height="50px" alt=""></a>       
 <a href="https://google.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" width="50px" height="50px" alt=""></a>        
 <a href="https://heroku.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original.svg" width="50px" height="50px" alt=""></a>        
 <a href="https://www.w3.org/html"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50px" height="50px" alt=""></a>
 <a href="https://inkscape.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/inkscape/inkscape-original.svg" width="50px" height="50px" alt=""></a>    
 <a href="https://nodejs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50px" height="50px" alt=""></a>
-<a href="https://www.jetbrains.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jetbrains/jetbrains-original.svg" width="50px" height="50px" alt=""></a>  
+<a href="https://www.jetbrains.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jetbrains/jetbrains-original.svg" width="50px" height="50px" alt=""></a> 
 <a href="https://www.gnu.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="50px" height="50px" alt=""></a>
 <a href="https://sass-lang.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="50px" height="50px" alt=""></a>
 <a href="https://code.visualstudio.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="50px" height="50px" alt=""></a>
