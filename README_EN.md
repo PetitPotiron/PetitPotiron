@@ -6,6 +6,6 @@
 ![Languages stats](https://github-readme-stats.vercel.app/api/top-langs/?username=PetitPotiron&theme=midnight-purple)
 
 ## I'm sociable
-[![Discord](https://discord.com/assets/ff41b628a47ef3141164bfedb04fb220.png)](https://discord.com/users/715826047949471785)
+[![Discord](https://discord.com/assets/f9bb9c4af2b9c32a2c5ee0014661546d.png)](https://discord.com/users/715826047949471785)
 
 [![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/PetitPotiron.png)](https://tryhackme.com/p/PetitPotiron)
