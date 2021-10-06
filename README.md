@@ -4,7 +4,7 @@
 ![Stats](https://github-readme-stats.vercel.app/api?username=PetitPotiron&show_icons=true&theme=midnight-purple)
 
 ## Programming skills
-![Python - Intermediate](https://www.python.org/static/community_logos/python-logo.png) ![Rust - Beginner](https://www.rust-lang.org/logos/rust-logo-blk.svg)
+![Python - Intermediate](https://www.python.org/static/img/python-logo-large.c36dccadd999.png) ![Rust - Beginner](https://www.rust-lang.org/logos/rust-logo-blk.svg)
 
 
 ## I'm sociable
