@@ -8,4 +8,4 @@
 
 ## I'm sociable
 <a href="https://discord.com/users/715826047949471785"><img src="https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg" width="40px" height="40px" alt="Discord"></a>
-<a href="https://tryhackme.com/p/PetitPotiron"><img src="https://user-images.githubusercontent.com/70655051/137372102-30581ce7-f4e2-4a8a-8e8b-04be7d6d62a1.png" alt="TryHackMe" width="40px" height="40px"></a>
+<a href="https://tryhackme.com/p/PetitPotiron"><img src="https://user-images.githubusercontent.com/70655051/137372102-30581ce7-f4e2-4a8a-8e8b-04be7d6d62a1.png" alt="TryHackMe" height="40px"></a>
